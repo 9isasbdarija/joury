@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>قصص جوري</ShortName>
+  <Description>بحث قصص جوري</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image width="16" height="16" type="image/x-icon">https://joury.9esa.com/favicon.ico</Image>
+	<Image width="64" height="64" type="image/png">data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAIAAAAlC+aJAAAAA3NCSVQICAjb4U/gAAAAX3pUWHRSYXcgcHJvZmlsZSB0eXBlIEFQUDEAAAiZ40pPzUstykxWKCjKT8vMSeVSAANjEy4TSxNLo0QDAwMLAwgwNDAwNgSSRkC2OVQo0QAFmJibpQGhuVmymSmIzwUAT7oVaBst2IwAAAK/SURBVGiB7ZrNaxNBGId/M9nsNsm0jbRpLZSmKhbaHjx4UDwIUoUWVFCoqGAPghfxpOA/4VmlpyLoTQ960lIPFfEbRBArWLSHUj9CbG223WSzO+OhIFq7SSfZZFKY55j52PeZmZ3MzgxhN2exlaGqA6gWLaAaLaAaLaAaQ+GzbQH4AgAoEpSQiipRI+ADTp7vYJGrg4yZ9PlC/sYXB7EIkx8QpP7/xD7grPLpox0H+1r//Jhd8U7fm5/KeSwi1xMK3gFnlb852fV39ADaEsbkWG9LlNpCrrZ6C9hcXOhp2tvL/k8iwNSRFFwuVWHde8DD6EBzUOKeNIMn1wV1FxCiPR4JSjQpQYMPodDRAqrRAqrRAqrRAqrRAqrRAqrRAqrRAqrRAqrRAqrRAqpRICAkd35KU3cBDhYP3BIXACR32esq4AIQ2N0ZC8pgF/zGFijwWweSJSL8tuSCNur2ul0UQ9uiY/tTJfJ8WHAgeT5QwxMaF3C5gAAEkOdX+uLXjneXLjIxk2sIgSJQcDkEzm63Oi06mDIP9bXsTDWVLvUjV7z/tcASgXvXGxK+gAu4Dp8aTg31J6UK3nmdhSU9pEMWEIC74s+e69nVUaa915Gxi5ffLsclmx+hv8Qrnhjfl5SNHsDFBwuI0QqiCXsWKorh/tby2f5l4lnmbsZlkhPoGmELCNHeHJUq8fD94vkXi0x+9K8RtgAhvxxv89mvT38fmcyw4FOzsoQtYJCXn+3NZLQL/rHbc5feLVcTPUKfhYwoOfEkmxtoZVapsB7PLB1+lIFJmFltC4Z/1cAWAMHcaHe6zVqXNL9YePopd+bVEnwRsWjgmk6GmtyVsAXg+Ke6rJF0LEpJxvE//iyOz+fBAYPAIKyymykbUcPLHjYH1tZCBKAwKTFr8JQaLuYYhezauAL0N7FqtIBqtIBqtrzAb4idxw08K2C6AAAAAElFTkSuQmCC</Image>
+  <Url type="text/html" template="https://joury.9esa.com/search">
+    <Param name="q" value="{searchTerms}"/>
+  </Url>
+  <moz:SearchForm>https://joury.9esa.com/search</moz:SearchForm>
+</OpenSearchDescription>
